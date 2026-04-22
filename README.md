@@ -1,16 +1,34 @@
-## Hi there 👋
+### Web Developer
 
-<!--
-**sora-geass/sora-geass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em criar soluções web eficientes e landing pages de alto impacto.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- **Frontend:** HTML5, CSS3, JavaScript (React/Next.js)
+- **Backend & Deploy:** Vercel, GitHub Pages
+- **Sistemas:** Experiência avançada em Windows (PowerShell, CMD, Otimização de Sistema)
+- **Produtividade:** Antigravity, Gestão de Tarefas, Suporte Técnico Remoto
+
+---
+
+## 🚀 Projetos em Destaque
+
+
+* **Vettify (In Progress):** Uma rede social de reviews inspirada em Letterboxd e Last.fm.
+
+---
+
+## 💼 Experiência & Serviços
+
+- **Landing Pages:** Desenvolvimento de páginas profissionais.
+- **Virtual Assistance:** Especialista em suporte técnico e organização de fluxo de trabalho.
+- **Engenharia:** Sólido conhecimento em cálculo avançado e análise vetorial aplicados à resolução de problemas.
+
+---
+
+## 📫 Contato
+
+- 💼 https://www.linkedin.com/in/soracode/
+- 📧 soradev.code@gmail.com
