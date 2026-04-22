@@ -1,7 +1,5 @@
 ### Web Developer
 
-Desenvolvedor focado em criar soluções web eficientes e landing pages de alto impacto.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
